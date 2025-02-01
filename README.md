@@ -59,12 +59,6 @@ Feel free to reach out to me through any of the following platforms:
 
 
 ---
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/aryawardhana15/aryawardhana15/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 
