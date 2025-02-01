@@ -3,7 +3,7 @@
 <h1 align="center">🚀 Bridging Technology, Culture, and Innovation for Impactful Solutions 🌍</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=42A5F5&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Innovator+%7C+Digital+Creator;Building+Scalable+and+Sustainable+Solutions;Data-Driven+Decision+Making;Bringing+Ideas+to+Life+through+Technology;Collaborating+for+a+Better+Future" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=42A5F5&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Ambassador+of+Cultural+%7C+Web+Dev;Transforming+Vision+into+Scalable;Front+End+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
