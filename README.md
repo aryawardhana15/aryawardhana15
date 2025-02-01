@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Muhammad Alhafiz Arya Wardhana
 
-<h1 align="center">🚀 Bridging Technology, Culture, and Innovation for Impactful Solutions 🌍</h1>
+<h1 align="center">🚀 Information system Brawijaya '24 🌍</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=42A5F5&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Ambassador+of+Cultural+%7C+Web+Dev;Transforming+Vision+into+Scalable+Solutions;Front+End+Web+Developer" alt="Typing SVG" />
