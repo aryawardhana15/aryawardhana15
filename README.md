@@ -9,7 +9,8 @@
 ---
 
 ### 🚀 About Me
-I'm passionate about **technology, innovation, and sustainability**. As an **Ambassador of Culture** in East Java, I work towards bringing local wisdom and modern tech together. I focus on building **scalable, sustainable solutions** that create positive change for the future. Whether it's developing innovative digital solutions or fostering sustainable community projects, I’m committed to using **technology as a bridge for cultural preservation and societal development**. 🌱
+Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **technology, innovation, and cultural preservation**. As an **Ambassador of Culture** in East Java, I work on creating **scalable and sustainable solutions** that connect local wisdom with modern technology. I’m dedicated to fostering **positive change** through the use of technology, focusing on building solutions that contribute to a brighter future. Let’s innovate together and make an impact! 🌱
+
 
 ---
 
