@@ -14,23 +14,16 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Achievements  
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryawardhana15&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aryawardhana15&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=8" alt="GitHub Trophy" />
   </a>
 </p>
 
 ---
 
-### 📢 Get in Touch
-Feel free to reach out to me through any of the following platforms:  
-📨 **Email**: [aryawardhana1@ub.ac.id](mailto:aryawardhana1@ub.ac.id)  
-🔗 **LinkedIn**: [Muhammad Alhafiz Arya Wardhana](https://www.linkedin.com/in/muhammad-alhafiz-arya-wardhana/)  
-📸 **Instagram**: [@malhafizaryaw](https://www.instagram.com/malhafizaryaw/)  
-🌍 **Website**: [Personal Portfolio](https://aryawardhana-snowy.vercel.app/)
-
----
 
 ### ⚙️ Tech Stack & Tools
 <p align="center">
@@ -46,7 +39,7 @@ Feel free to reach out to me through any of the following platforms:
 
 ---
 
-### 📊 GitHub Stats
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryawardhana15&theme=radical&fire=DD2727&ring=5C7CFA&currStreakNum=F7B733&sideNums=F7B733" alt="GitHub Streak" />
@@ -80,3 +73,14 @@ Feel free to reach out to me through any of the following platforms:
 ---
 
 ✨ **Let's Connect and Create Something Amazing!** 🚀
+### 📢 Let's Connect & Collaborate!  
+
+💬 I'm always excited to connect with fellow tech enthusiasts, developers, and innovators. Whether you have an exciting project, want to discuss tech trends, or just want to say hi—feel free to reach out! 🚀  
+
+📨 **Email**: [aryawardhana1@ub.ac.id](mailto:aryawardhana1@ub.ac.id)  
+🔗 **LinkedIn**: [Muhammad Alhafiz Arya Wardhana](https://www.linkedin.com/in/muhammad-alhafiz-arya-wardhana/)  
+📸 **Instagram**: [@malhafizaryaw](https://www.instagram.com/malhafizaryaw/)  
+🌍 **Portfolio**: [Visit My Website](https://aryawardhana-snowy.vercel.app/)  
+
+💡 Open to **collaborations, tech discussions, and new opportunities**. Let’s create something impactful together! 🌱  
+
