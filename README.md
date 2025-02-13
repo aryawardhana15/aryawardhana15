@@ -69,9 +69,6 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
 
 
 
-
----
-
 ✨ **Let's Connect and Create Something Amazing!** 🚀
 ### 📢 Let's Connect & Collaborate!  
 
