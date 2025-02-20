@@ -72,9 +72,7 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  </a>
+
 
   <!-- IDEs & Editors -->
   <a href="https://code.visualstudio.com/" target="_blank">
