@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+ 🚀 About Me
 Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **technology, innovation, and cultural preservation**. As an **Ambassador of Culture** in East Java,I dedicated to fostering **positive change** through the use of technology, focusing on building solutions that contribute to a brighter future. Let’s innovate together and make an impact! 🌱
 
 
