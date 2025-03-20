@@ -48,6 +48,11 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
+  <a href="https://laravel.com/docs/9.x/blade" target="_blank">
+    <img src="https://img.shields.io/badge/Blade-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
+  </a>
+
+
 
   <!-- Backend Technologies -->
   <a href="https://www.php.net/" target="_blank">
