@@ -27,7 +27,6 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
 
 ### 🛠️ Tech Stack & Tools
 
-
 <p align="center">
   <!-- Frontend Technologies -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -39,8 +38,17 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
@@ -52,11 +60,15 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
     <img src="https://img.shields.io/badge/Blade-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
   </a>
 
-
-
   <!-- Backend Technologies -->
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -78,7 +90,6 @@ Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **t
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
-
 
   <!-- IDEs & Editors -->
   <a href="https://code.visualstudio.com/" target="_blank">
