@@ -153,8 +153,16 @@ const aryawardhana = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryawardhana15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&custom_title=🔥%20Most%20Used%20Languages" />
 </div>
 
+---
+
+## 🔥 GitHub Streak & Contribution Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryawardhana15&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" />
+  <img src="https://streak-stats.demolab.com/?user=aryawardhana15&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF&card_width=500" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryawardhana15&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="Alternative Streak Stats" />
 </div>
 
 <div align="center">
@@ -194,14 +202,6 @@ graph TD
     style D fill:#f9ca24,stroke:#333,stroke-width:2px
     style E fill:#6c5ce7,stroke:#333,stroke-width:2px
 ```
-
-### 🎯 **2025 Roadmap**
-- 🚀 **Q1**: Launch 3 major open-source projects
-- 🌟 **Q2**: Participate in 2 international competitions
-- 🔥 **Q3**: Contribute to 10+ cultural preservation initiatives
-- ⚡ **Q4**: Mentor 50+ junior developers
-
----
 
 ## 🌟 Featured Projects Showcase
 
