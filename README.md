@@ -48,36 +48,6 @@ Previous Experience:
 
 </div>
 
-### 🚀 Notable Projects & Contributions
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd1-866c-1ca8b8b95d9d.gif" width="200">
-</div>
-
-#### 🌟 **EduConnect** - International Award Winner
-- **🎯 Purpose**: Revolutionary educational platform connecting students globally
-- **⚡ Impact**: Streamlined online learning experience for thousands of users
-- **🛠️ Tech Stack**: React.js, Node.js, MongoDB, Socket.io
-- **🏆 Achievement**: Won international web development competition
-
-#### 🏪 **UMKM Web Platform** - Top 10 Finalist
-- **🎯 Purpose**: Empowering small businesses with digital transformation
-- **⚡ Impact**: Helped local businesses establish online presence
-- **🛠️ Tech Stack**: Laravel, Vue.js, MySQL, Payment Gateway Integration
-- **🏆 Achievement**: Recognized as top 10 finalist in national competition
-
-#### 😊 **SmileKids Company Website**
-- **🎯 Purpose**: Corporate website for children's service company
-- **⚡ Impact**: Enhanced brand visibility and customer engagement
-- **🛠️ Tech Stack**: WordPress, Custom PHP, Responsive Design
-- **🏆 Achievement**: Delivered pixel-perfect, user-friendly interface
-
-#### 🎭 **Duta Budaya Jawa Timur Website**
-- **🎯 Purpose**: Digital platform for East Java cultural ambassadors
-- **⚡ Impact**: Promoting and preserving Javanese culture digitally
-- **🛠️ Tech Stack**: React, Firebase, Cultural Content Management
-- **🏆 Achievement**: Bridging tradition with modern technology
-
 ---
 
 ## 🌟 About Me
