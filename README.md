@@ -157,9 +157,6 @@ const aryawardhana = {
 
 ## 🔥 GitHub Streak & Contribution Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryawardhana15&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF&card_width=500" alt="GitHub Streak Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryawardhana15&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="Alternative Streak Stats" />
