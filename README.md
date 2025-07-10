@@ -1,160 +1,300 @@
-### Hi there! 👋 I'm Muhammad Alhafiz Arya Wardhana
+# Hi there! 👋 I'm Muhammad Alhafiz Arya Wardhana
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future%20with%20Code&descAlignY=51&descSize=20" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=42A5F5&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Ambassador+of+Cultural+%7C+Web+Dev;Transforming+Vision+into+Scalable+Solutions;Front+End+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Tech+Innovator+%7C+Cultural+Ambassador+%7C+Web+Architect;⚡+Transforming+Ideas+into+Digital+Reality;🌟+Full+Stack+Developer+%7C+Problem+Solver;🔥+Building+Tomorrow's+Solutions+Today!" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 ---
 
- ### 🚀 About Me
-Hello! I'm Muhammad Alhafiz Arya Wardhana, an IT enthusiast passionate about **technology, innovation, and cultural preservation**. As an **Ambassador of Culture** in East Java,I dedicated to fostering **positive change** through the use of technology, focusing on building solutions that contribute to a brighter future. Let’s innovate together and make an impact!..
+## 💼 Professional Experience & Achievements
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
----
+### 🏢 Work Experience
 
-### 🏆 GitHub Achievements  
+```yaml
+Current Position:
+  - Role: Full Stack Developer
+  - Company: Scover GTU
+  - Focus: End-to-end web development solutions
+  - Technologies: React, Node.js, PHP, Laravel
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryawardhana15&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=8" alt="GitHub Trophy" />
-  </a>
-</p>
+Previous Experience:
+  - Role: Web Developer Intern
+  - Company: ForestTraine
+  - Achievement: Contributed to forest management systems
+  - Skills: Frontend development, API integration
+```
 
----
+### 🏆 Competition & Awards
 
+<div align="center">
 
-### 🛠️ Tech Stack & Tools
+| 🥇 Achievement | 🎯 Project | 📅 Status |
+|---|---|---|
+| **International Competition Winner** | EduConnect Web Platform | 🏆 **WINNER** |
+| **Top 10 Finalist** | UMKM Web Platform | 🥇 **FINALIST** |
+| **Cultural Ambassador** | East Java Province | 🎖️ **ACTIVE** |
 
-<p align="center">
-  <!-- Frontend Technologies -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://greensock.com/gsap/" target="_blank">
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </a>
-  <a href="https://laravel.com/docs/9.x/blade" target="_blank">
-    <img src="https://img.shields.io/badge/Blade-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
-  </a>
+</div>
 
-  <!-- Backend Technologies -->
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
+### 🚀 Notable Projects & Contributions
 
-  <!-- Tools & Platforms -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  </a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd1-866c-1ca8b8b95d9d.gif" width="200">
+</div>
 
-  <!-- IDEs & Editors -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio 2022" />
-  </a>
-  <a href="https://netbeans.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
-  </a>
+#### 🌟 **EduConnect** - International Award Winner
+- **🎯 Purpose**: Revolutionary educational platform connecting students globally
+- **⚡ Impact**: Streamlined online learning experience for thousands of users
+- **🛠️ Tech Stack**: React.js, Node.js, MongoDB, Socket.io
+- **🏆 Achievement**: Won international web development competition
 
-  <!-- Database & DevTools -->
-  <a href="https://developer.chrome.com/docs/devtools/" target="_blank">
-    <img src="https://img.shields.io/badge/DevTools-FF4154?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DevTools" />
-  </a>
-  <a href="https://dbeaver.io/" target="_blank">
-    <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-  </a>
-  <a href="https://www.dbdesigner.net/" target="_blank">
-    <img src="https://img.shields.io/badge/DBDesigner-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBDesigner" />
-  </a>
-</p>
+#### 🏪 **UMKM Web Platform** - Top 10 Finalist
+- **🎯 Purpose**: Empowering small businesses with digital transformation
+- **⚡ Impact**: Helped local businesses establish online presence
+- **🛠️ Tech Stack**: Laravel, Vue.js, MySQL, Payment Gateway Integration
+- **🏆 Achievement**: Recognized as top 10 finalist in national competition
+
+#### 😊 **SmileKids Company Website**
+- **🎯 Purpose**: Corporate website for children's service company
+- **⚡ Impact**: Enhanced brand visibility and customer engagement
+- **🛠️ Tech Stack**: WordPress, Custom PHP, Responsive Design
+- **🏆 Achievement**: Delivered pixel-perfect, user-friendly interface
+
+#### 🎭 **Duta Budaya Jawa Timur Website**
+- **🎯 Purpose**: Digital platform for East Java cultural ambassadors
+- **⚡ Impact**: Promoting and preserving Javanese culture digitally
+- **🛠️ Tech Stack**: React, Firebase, Cultural Content Management
+- **🏆 Achievement**: Bridging tradition with modern technology
 
 ---
 
+## 🌟 About Me
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryawardhana15&theme=radical&fire=DD2727&ring=5C7CFA&currStreakNum=F7B733&sideNums=F7B733" alt="GitHub Streak" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryawardhana15&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
+```javascript
+const aryawardhana = {
+    name: "Muhammad Alhafiz Arya Wardhana",
+    role: "Full Stack Developer & Cultural Ambassador",
+    location: "East Java, Indonesia 🇮🇩",
+    experience: [
+        "Web Developer Intern @ ForestTraine",
+        "Full Stack Developer @ Scover GTU",
+        "Freelance Developer @ SmileKids Company",
+        "Web Developer @ Duta Budaya Jawa Timur"
+    ],
+    achievements: [
+        "🏆 International Competition Winner - EduConnect Web",
+        "🥇 Top 10 Finalist - UMKM Web Platform",
+        "🎖️ Cultural Ambassador East Java"
+    ],
+    passion: ["Technology", "Innovation", "Cultural Preservation"],
+    mission: "Building scalable solutions that bridge technology and culture",
+    currentStatus: "Transforming ideas into digital reality ⚡",
+    lifePhilosophy: "Code with purpose, innovate with heart 💙"
+};
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryawardhana15&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryawardhana15&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryawardhana15&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-
-
-
+🎯 **Mission**: Leveraging cutting-edge technology to create meaningful impact  
+🌍 **Vision**: Bridging the gap between traditional culture and modern innovation  
+⚡ **Goal**: Contributing to a brighter digital future through scalable solutions  
 
 ---
 
+## 🏆 GitHub Achievements & Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryawardhana15&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
+</div>
 
-✨ **Let's Connect and Create Something Amazing!** 🚀
-### 📢 Let's Connect & Collaborate!  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryawardhana15&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</div>
 
-💬 I'm always excited to connect with fellow tech enthusiasts, developers, and innovators. Whether you have an exciting project, want to discuss tech trends, or just want to say hi—feel free to reach out! 🚀  
+---
 
-📨 **Email**: [aryawardhana1@ub.ac.id](mailto:aryawardhana1@ub.ac.id)  
-🔗 **LinkedIn**: [Muhammad Alhafiz Arya Wardhana](https://www.linkedin.com/in/muhammad-alhafiz-arya-wardhana/)  
-📸 **Instagram**: [@malhafizaryaw](https://www.instagram.com/malhafizaryaw/)  
-🌍 **Portfolio**: [Visit My Website](https://aryawardhana-snowy.vercel.app/)  
+## 🛠️ Tech Arsenal & Weaponry
 
-💡 Open to **collaborations, tech discussions, and new opportunities**. Let’s create something impactful together! 🌱  
+<div align="center">
 
+### 🎨 Frontend Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,vscode&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=php,laravel,flask,java,cs,mysql,postgresql,firebase,git,github&theme=dark" />
+
+### 🚀 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,docker,aws,visualstudio,atom,sublime,photoshop,illustrator&theme=dark" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
+
+---
+
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryawardhana15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&custom_title=⚡%20GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryawardhana15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&custom_title=🔥%20Most%20Used%20Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryawardhana15&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryawardhana15&theme=tokyonight" />
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="400">
+</div>
+
+```mermaid
+graph TD
+    A[🎯 2025 Goals] --> B[🚀 Advanced React Ecosystem]
+    A --> C[🔥 Scalable Architecture]
+    A --> D[🌟 Cultural Tech Innovation]
+    A --> E[⚡ International Recognition]
+    
+    B --> F[Next.js 14+ Mastery]
+    B --> G[React Native Development]
+    
+    C --> H[Microservices Architecture]
+    C --> I[Cloud Infrastructure]
+    
+    D --> J[Digital Heritage Projects]
+    D --> K[Cultural Preservation Apps]
+    
+    E --> L[Global Competition Wins]
+    E --> M[Open Source Leadership]
+    
+    style A fill:#ff6b6b,stroke:#333,stroke-width:3px
+    style B fill:#4ecdc4,stroke:#333,stroke-width:2px
+    style C fill:#45b7d1,stroke:#333,stroke-width:2px
+    style D fill:#f9ca24,stroke:#333,stroke-width:2px
+    style E fill:#6c5ce7,stroke:#333,stroke-width:2px
+```
+
+### 🎯 **2025 Roadmap**
+- 🚀 **Q1**: Launch 3 major open-source projects
+- 🌟 **Q2**: Participate in 2 international competitions
+- 🔥 **Q3**: Contribute to 10+ cultural preservation initiatives
+- ⚡ **Q4**: Mentor 50+ junior developers
+
+---
+
+## 🌟 Featured Projects Showcase
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+### 🏆 Award-Winning Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆-EduConnect-gold?style=for-the-badge&logo=education&logoColor=white" />
+        <br>
+        <b>International Winner</b>
+        <br>
+        <i>Global Education Platform</i>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🥇-UMKM%20Platform-silver?style=for-the-badge&logo=business&logoColor=white" />
+        <br>
+        <b>Top 10 Finalist</b>
+        <br>
+        <i>Small Business Empowerment</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🚀 Professional Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/😊-SmileKids-brightgreen?style=for-the-badge&logo=child&logoColor=white" />
+        <br>
+        <b>Corporate Website</b>
+        <br>
+        <i>Children's Service Company</i>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎭-Cultural%20Heritage-orange?style=for-the-badge&logo=culture&logoColor=white" />
+        <br>
+        <b>Duta Budaya Platform</b>
+        <br>
+        <i>East Java Cultural Ambassadors</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/aryawardhana15?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryawardhana15&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F85D7F" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+</div>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryawardhana1@ub.ac.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alhafiz-arya-wardhana/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malhafizaryaw/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aryawardhana-snowy.vercel.app/)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryawardhana15&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aryawardhana15?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <h3>💡 "Innovation happens when creativity meets code" 🚀</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
