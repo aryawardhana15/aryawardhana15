@@ -44,7 +44,7 @@ Previous Experience:
 |---|---|---|
 | **International Competition Winner** | EduConnect Web Platform | 🏆 **WINNER** |
 | **Top 10 Finalist** | UMKM Web Platform | 🥇 **FINALIST** |
-| **Cultural Ambassador** | East Java Province | 🎖️ **ACTIVE** |
+
 
 </div>
 
@@ -138,43 +138,6 @@ const aryawardhana = {
 
 ---
 
-## 🎯 Current Focus & Goals
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="400">
-</div>
-
-```mermaid
-graph TD
-    A[🎯 2025 Goals] --> B[🚀 Advanced React Ecosystem]
-    A --> C[🔥 Scalable Architecture]
-    A --> D[🌟 Cultural Tech Innovation]
-    A --> E[⚡ International Recognition]
-    
-    B --> F[Next.js 14+ Mastery]
-    B --> G[React Native Development]
-    
-    C --> H[Microservices Architecture]
-    C --> I[Cloud Infrastructure]
-    
-    D --> J[Digital Heritage Projects]
-    D --> K[Cultural Preservation Apps]
-    
-    E --> L[Global Competition Wins]
-    E --> M[Open Source Leadership]
-    
-    style A fill:#ff6b6b,stroke:#333,stroke-width:3px
-    style B fill:#4ecdc4,stroke:#333,stroke-width:2px
-    style C fill:#45b7d1,stroke:#333,stroke-width:2px
-    style D fill:#f9ca24,stroke:#333,stroke-width:2px
-    style E fill:#6c5ce7,stroke:#333,stroke-width:2px
-```
-
-## 🌟 Featured Projects Showcase
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
 ### 🏆 Award-Winning Projects
 
