@@ -77,10 +77,6 @@ const aryawardhana = {
 };
 ```
 
-🎯 **Mission**: Leveraging cutting-edge technology to create meaningful impact  
-🌍 **Vision**: Bridging the gap between traditional culture and modern innovation  
-⚡ **Goal**: Contributing to a brighter digital future through scalable solutions  
-
 ---
 
 ## 🏆 GitHub Achievements & Trophies
