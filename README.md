@@ -158,35 +158,6 @@ const aryawardhana = {
   </table>
 </div>
 
-### 🚀 Professional Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/😊-SmileKids-brightgreen?style=for-the-badge&logo=child&logoColor=white" />
-        <br>
-        <b>Corporate Website</b>
-        <br>
-        <i>Children's Service Company</i>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎭-Cultural%20Heritage-orange?style=for-the-badge&logo=culture&logoColor=white" />
-        <br>
-        <b>Duta Budaya Platform</b>
-        <br>
-        <i>East Java Cultural Ambassadors</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/aryawardhana15?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryawardhana15&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F85D7F" />
-  </a>
-</div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate!
