@@ -97,20 +97,25 @@ const aryawardhana = {
 <div align="center">
 
 ### 🎨 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&theme=dark" />
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,flask,java,cs,mysql,mongodb,prisma,git,github&theme=dark" />
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,flask,django,fastapi,go,java,cs&theme=dark" />
 
-### 🚀 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,visualstudio,vscode&theme=dark" />
+### 🗄️ Database & ORM
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,sequelize&theme=dark" />
+
+### 🔧 Tools & Development Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+
+### 🚀 Deployment & Hosting
+<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku&theme=dark" />
 
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
-
 ---
 
 ## 📊 GitHub Analytics & Performance
