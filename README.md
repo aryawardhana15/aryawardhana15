@@ -100,7 +100,7 @@ const aryawardhana = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,vscode&theme=dark" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=php,laravel,flask,java,cs,mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,flask,java,cs,mysql,mongodb,prisma,git,github&theme=dark" />
 
 ### 🚀 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,visualstudio,vscode&theme=dark" />
